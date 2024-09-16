@@ -14,7 +14,6 @@ const reviewRouter = require(`${__dirname}/Routes/reviewRoutes`);
 const bookingRoutr = require(`${__dirname}/routes/bookingRoutes`);
 
 
-// start express app
 const app = express();
 
 
