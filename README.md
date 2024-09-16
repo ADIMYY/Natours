@@ -23,7 +23,7 @@
     <li>Tours can be deleted by an admin user or a lead-guide.</li>
   </ul>
   <li>Bookings</li>
-  <lu>
+  <ul>
     <li>Only regular users can book tours (make a payment).</li>
     <li>Regular users can not book the same tour twice.</li>
     <li>Regular users can see all the tours they have booked.</li>
@@ -32,7 +32,7 @@
     <li>An admin user or a lead guide can create a booking (manually, without payment).</li>
     <li>An admin user or a lead guide can not create a booking for the same user twice.</li>
     <li>An admin user or a lead guide can edit any booking.</li>
-  </lu>
+  </ul>
   <li>Reviews</li>
   <ul>
     <li>Only regular users can write reviews for tours that they have booked.</li>
